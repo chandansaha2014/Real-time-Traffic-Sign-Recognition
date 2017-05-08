@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Documents/PycharmProjects/TrafficSignRecognition/.idea/TrafficSignRecognition.iml" filepath="$USER_HOME$/Documents/PycharmProjects/TrafficSignRecognition/.idea/TrafficSignRecognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Real-time-Traffic-Sign-Recognition.iml" filepath="$PROJECT_DIR$/.idea/Real-time-Traffic-Sign-Recognition.iml" />
     </modules>
   </component>
 </project>
